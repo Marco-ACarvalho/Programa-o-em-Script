@@ -1,0 +1,52 @@
+body {
+    max-width: 960px;
+    /*margin: 0 auto;*/
+    margin-top: 30px;
+    margin-left: 160px;
+    margin-right: 60px;
+    margin-top: 60px;
+}
+
+.link {
+    color: black;
+    text-transform: uppercase;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+/* pseudoclasse css - efeitos especiais hover = mouse por cima*/
+.link:hover {
+    text-decoration: none;
+    color: black;
+    background-color: lightgrey;
+    background-color: aqua;
+}
+
+#InputNome {
+    background-color: yellow;
+    background-color: lightblue;
+    width: 100%;
+    
+
+}
+
+#InputBairro {
+    background-color: yellow;
+    background-color: lightblue;
+    width: 70%;
+}
+#InputCEP {
+    background-color: yellow;
+    background-color: lightblue;
+    width: 10%;
+}
+#InputCidade {
+    background-color: yellow;
+    background-color: lightblue;
+    width: 100%;
+}
+#InputEstado {
+    background-color: yellow;
+    background-color: lightblue;
+    width: 100%;
+}
